@@ -5,7 +5,5 @@ public class Testing {
 		int a ; 
 		a=10;
 		System.out.println("Start");
-		//lols 2 
-		//lols
 	}
 }
